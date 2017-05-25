@@ -14,3 +14,7 @@ _All of the slide decks related to my talks_
 ### Python Hands-on Workshop
 
 - Slide deck used at a one day hands-on python workshop, conducted as a part of SSN ACM Student Chapter (2016 and 2017).
+
+### Machine Learning from a Computer Vision and Natural Language Processing perspective
+
+- Slide deck used to present at one of the Off-Sites at Qube Cinema Technologies.
