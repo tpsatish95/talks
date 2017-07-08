@@ -11,10 +11,38 @@ _All of the slide decks related to my talks_
 - Slide deck used to present at a weekly [IDLI](https://www.facebook.com/groups/idliai/) session.
 - Slide deck used to present at a monthly [GeekNight TW](https://twchennai.github.io/geeknight/) session, May 2017 edition (25th May 2017).
 
-### Python Hands-on Workshop
+### Pokemon World and Indus Valley Civilisation - The Analogy
 
-- Slide deck used at a one day hands-on python workshop, conducted as a part of SSN ACM Student Chapter (2016 and 2017).
+- Slide deck used to present at the Off-Site 2017 of Qube Cinema Technologies.
+- **V1**: https://docs.google.com/presentation/d/1C2peTKpVMQM1KuadNgPzR7dg_R7cqexP0B8VdifsfX4/edit?usp=sharing
+- **V2**: https://docs.google.com/presentation/d/1FSodM6Qbzglhrn_VizEul-MkerEBhEQIHpXIgPZGlG4/edit?usp=sharing
+- This talk will basically be dealing with how extremely similar deep learning techniques and architecture were applied to solve two extremely polar problems concerning two completely unrelated worlds; The OCR problem for the scripts of the Indus Valley Civilisation and the Image Captioning problem in the Pokemon world.
+- **Basic Talk Proposal (Indus Scripts)**: https://anthillinside.talkfunnel.com/2017/15-deep-learning-based-ocr-engine-for-the-indus-scrip
+- **Docs (Pokemon Image Captioning)**:
+  - **Slides**:
+    - https://github.com/tpsatish95/image-captioning/blob/master/slide.pdf
+    - https://docs.google.com/presentation/d/1ZTL2_MTh1d8R_EvdEOX2MkVvgS_VjSDv-BV3mzl_c0c/edit?usp=sharing
+  - **Report**: https://github.com/tpsatish95/image-captioning/blob/master/report.pdf
+  - **Code**: https://github.com/tpsatish95/image-captioning
+
+- **Outline** - Points of Analogy:
+  - The what, why, how (the DL architecture devised) of both problems
+  - Analogy 1: (Region of Interest Extraction problem - classify Text/No-Text/Both, Pokemon/Other/Part)
+    - IVC: Region Proposal + Text Region Extraction
+    - PW: Pokemon Localisation
+  - Analogy 2: (Classification Problem - to identify the Symbols, Actors / Actions)
+    - IVC: Symbol Segmentation + Identification
+    - PW: Pokemon Classification + Attack Classification
+  - Analogy 3: (Sequence Generation Problem - to generate Numbers, Words)
+    - IVC: Sequence of Numbers
+    - PW: Attacker-Attack-Victim Sequences
+
+- **Note:** The final slide deck will have the Indus Scripts OCR problem as the base and will be drawing analogies to the Pokemon Image Captioning problem wherever appropriate. This talk will also scratch the surface of the basic concepts like CNN, Transfer Learning and whatever is being used in both of these problems.
 
 ### Machine Learning from a Computer Vision and Natural Language Processing perspective
 
-- Slide deck used to present at one of the Off-Sites at Qube Cinema Technologies.
+- Slide deck used to present at the Off-Site 2016 of Qube Cinema Technologies.
+
+### Python Hands-on Workshop
+
+- Slide deck used at a one day hands-on python workshop, conducted as a part of SSN ACM Student Chapter (2016 and 2017).
