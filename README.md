@@ -13,9 +13,16 @@ _All of the slide decks related to my talks_
 
 ### Pokemon World and Indus Valley Civilisation - The Analogy
 
-- Slide deck used to present at the Off-Site 2017 of Qube Cinema Technologies.
+- Slide deck used to present at:
+  - Off-Site 2017 of Qube Cinema Technologies.
+  - Deep Learning for Image and Text Analysis - AICTE Sponsored Faculty Development Programme, by the Computer Science and Engineering department, at SSN College of Engineering. [FDP - SSN](https://aicte-fdp-2017.ssn.edu.in/speakers)
+
 - **V1**: https://docs.google.com/presentation/d/1C2peTKpVMQM1KuadNgPzR7dg_R7cqexP0B8VdifsfX4/edit?usp=sharing
+
 - **V2**: https://docs.google.com/presentation/d/1FSodM6Qbzglhrn_VizEul-MkerEBhEQIHpXIgPZGlG4/edit?usp=sharing
+
+- **V3 (FDP - SSN)**: https://docs.google.com/presentation/d/1YI6VKB-lWh5x7q23zfAEALaPbpKu9OqYYnwRIzwvZLg/edit?usp=sharing
+
 - This talk will basically be dealing with how extremely similar deep learning techniques and architecture were applied to solve two extremely polar problems concerning two completely unrelated worlds; The OCR problem for the scripts of the Indus Valley Civilisation and the Image Captioning problem in the Pokemon world.
 - **Basic Talk Proposal (Indus Scripts)**: https://anthillinside.talkfunnel.com/2017/15-deep-learning-based-ocr-engine-for-the-indus-scrip
 - **Docs (Pokemon Image Captioning)**:
