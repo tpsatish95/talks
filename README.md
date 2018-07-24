@@ -11,6 +11,33 @@ _All of the slide decks related to my talks_
 - Slide deck used to present at a weekly [IDLI](https://www.facebook.com/groups/idliai/) session.
 - Slide deck used to present at a monthly [GeekNight TW](https://twchennai.github.io/geeknight/) session, May 2017 edition (25th May 2017).
 
+### Distributed Panorama Construction of High Resolution UAV Imagery Using Public Compute Nodes
+
+- **Slide Deck:** https://docs.google.com/presentation/d/1P-qX7qzGlI3vbvqG5tUDFrUdL1Y8diXQL0QLaqvQ3pk/edit?usp=sharing
+- **A video report of the architecture and implementation of this project:**
+
+[![Home Automation System](https://img.youtube.com/vi/iWw4_Ub2lPw/0.jpg)](http://www.youtube.com/watch?v=iWw4_Ub2lPw)
+
+- **YouTube:** http://www.youtube.com/watch?v=iWw4_Ub2lPw
+
+- This project was done as part of the **Smart India Hackathon 2018 (Software Edition), under the Department of Space (Indian Space Research Organization)**.
+- Our team **"WYSIWYG4"** won the **first prize** and also a cash award of **Rs. 1,00,000** at this hackathon.
+
+- **Details:**
+  - The raw remote sensing/optical imagery captured by UAVs almost always needs to be processed for generating a region panorama using image stitching.
+    - The image stitching procedure generally involves various steps namely:
+      - Feature detection for finding correspondences between images so that they may be considered for alignment
+      - Image calibration for removing optical defects such as distortions, chromatic aberrations etc.
+      - Image registration that involves feature matching to determine optimal alignment features
+      - Image blending that involves executing the adjustments figured out in the calibration stage, combined with remapping of the images to an output projection
+  - However, these images are typically of gigantic sizes due to which processing them takes a significant amount of time and hardware based computational resources. This leads to cumulative delays in preparation of the imagery data in a format that is useful for scientific or public use. Thus after determining those steps which do not have dependencies on the other steps of processing, the images can be divided into chunks of small size (say a few KBs) and these can be distributed among the devices owned by common people such as smartphones, or even desktops.
+  - An app/software will utilize the resources of the mobile or desktop to perform processing on the small image chunk and send the results back to the servers. At the server end, the processed chunks are assembled together to get the final output for that processing stage.
+  - **Press Coverage:**
+    - **Times of India:** https://timesofindia.indiatimes.com/city/ahmedabad/six-winners-emerge-from-smart-india-hackathon/articleshow/63561717.cms?utm_source=whatsapp&utm_medium=social&utm_campaign=TOIMobile
+    - **The Hindu:** https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/5-teams-from-ssn-college-win-prizes/article23461319.ece
+    - **SSN College of Engineering:** http://www.ssn.edu.in/?page_id=15246
+    - **Winning Moment - Facebook Live (by Gujarat Technological University):** https://www.facebook.com/gtuoffice/videos/1786668221397028/?t=8798
+
 ### Pokemon World and Indus Valley Civilisation - The Analogy
 
 - Slide deck used to present at:
