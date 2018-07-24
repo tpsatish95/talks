@@ -32,11 +32,11 @@ _All of the slide decks related to my talks_
       - Image blending that involves executing the adjustments figured out in the calibration stage, combined with remapping of the images to an output projection
   - However, these images are typically of gigantic sizes due to which processing them takes a significant amount of time and hardware based computational resources. This leads to cumulative delays in preparation of the imagery data in a format that is useful for scientific or public use. Thus after determining those steps which do not have dependencies on the other steps of processing, the images can be divided into chunks of small size (say a few KBs) and these can be distributed among the devices owned by common people such as smartphones, or even desktops.
   - An app/software will utilize the resources of the mobile or desktop to perform processing on the small image chunk and send the results back to the servers. At the server end, the processed chunks are assembled together to get the final output for that processing stage.
-  - **Press Coverage:**
-    - **Times of India:** https://timesofindia.indiatimes.com/city/ahmedabad/six-winners-emerge-from-smart-india-hackathon/articleshow/63561717.cms?utm_source=whatsapp&utm_medium=social&utm_campaign=TOIMobile
-    - **The Hindu:** https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/5-teams-from-ssn-college-win-prizes/article23461319.ece
-    - **SSN College of Engineering:** http://www.ssn.edu.in/?page_id=15246
-    - **Winning Moment - Facebook Live (by Gujarat Technological University):** https://www.facebook.com/gtuoffice/videos/1786668221397028/?t=8798
+- **Press Coverage:**
+  - **Times of India:** https://timesofindia.indiatimes.com/city/ahmedabad/six-winners-emerge-from-smart-india-hackathon/articleshow/63561717.cms?utm_source=whatsapp&utm_medium=social&utm_campaign=TOIMobile
+  - **The Hindu:** https://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/5-teams-from-ssn-college-win-prizes/article23461319.ece
+  - **SSN College of Engineering:** http://www.ssn.edu.in/?page_id=15246
+  - **Winning Moment - Facebook Live (by Gujarat Technological University):** https://www.facebook.com/gtuoffice/videos/1786668221397028/?t=8798
 
 ### Pokemon World and Indus Valley Civilisation - The Analogy
 
