@@ -1,6 +1,19 @@
 # Talks
 
-_All of the slide decks related to my talks_
+_All of the slide decks and video recordings related to my talks and workshops_
+
+## Contents:
+- [Project Talks](#project-talks)
+  - [Deep learning based OCR engine for the Indus script](#deep-learning-based-ocr-engine-for-the-indus-script)
+  - [Distributed Panorama Construction of High Resolution UAV Imagery Using Public Compute Nodes](#distributed-panorama-construction-of-high-resolution-uav-imagery-using-public-compute-nodes)
+  - [Pokemon World and Indus Valley Civilisation - The Analogy](#pokemon-world-and-indus-valley-civilisation---the-analogy)
+- [Tech Talks](#tech-talks)
+  - [Machine Learning from a Computer Vision and Natural Language Processing perspective](#machine-learning-from-a-computer-vision-and-natural-language-processing-perspective)
+  - [Python Hands-on Workshop](#python-hands-on-workshop)
+- [Career Talks](#career-talks)
+  - [What next after graduation?](#what-next-after-graduation)
+
+## Project Talks
 
 ### Deep learning based OCR engine for the Indus script
 
@@ -16,7 +29,7 @@ _All of the slide decks related to my talks_
 - **Slide Deck:** https://docs.google.com/presentation/d/1P-qX7qzGlI3vbvqG5tUDFrUdL1Y8diXQL0QLaqvQ3pk/edit?usp=sharing
 - **A video report of the architecture and implementation of this project:**
 
-[![Home Automation System](https://img.youtube.com/vi/iWw4_Ub2lPw/0.jpg)](http://www.youtube.com/watch?v=iWw4_Ub2lPw)
+[![ Distributed Panorama Construction of High Resolution UAV Imagery Using Public Compute Nodes](https://img.youtube.com/vi/iWw4_Ub2lPw/0.jpg)](http://www.youtube.com/watch?v=iWw4_Ub2lPw)
 
 - **YouTube:** http://www.youtube.com/watch?v=iWw4_Ub2lPw
 
@@ -73,10 +86,23 @@ _All of the slide decks related to my talks_
 
 - **Note:** The final slide deck will have the Indus Scripts OCR problem as the base and will be drawing analogies to the Pokemon Image Captioning problem wherever appropriate. This talk will also scratch the surface of the basic concepts like CNN, Transfer Learning and whatever is being used in both of these problems.
 
-### Machine Learning from a Computer Vision and Natural Language Processing perspective
 
-- Slide deck used to present at the Off-Site 2016 of Qube Cinema Technologies.
+## Tech Talks
+
+### Machine Learning from a Computer Vision and Natural Language Processing perspective
+- Slide deck used to present at the Off-Site 2016 of Qube Cinema Technologies: [slides](ML%20from%20a%20CV%20and%20NLP%20perspective.pdf)
 
 ### Python Hands-on Workshop
+- Slide deck used at a one day hands-on python workshop, conducted as a part of SSN ACM Student Chapter (2016 and 2017): [slides](Python%20Hands-on%20Workshop%20-%20ACM.pdf)
 
-- Slide deck used at a one day hands-on python workshop, conducted as a part of SSN ACM Student Chapter (2016 and 2017).
+
+## Career Talks
+
+### What next after graduation?
+- [Slide deck](Career%20Talk%20-%20What%20next%20after%20graduation%20-%20SSN%20ACM%20Student%20Chapter.pdf)
+
+[![What next after graduation?](https://img.youtube.com/vi/bZCrdu-ZqFs/0.jpg)](http://www.youtube.com/watch?v=bZCrdu-ZqFs)
+
+- **YouTube:** http://www.youtube.com/watch?v=bZCrdu-ZqFs
+- **LinkedIn:** https://www.linkedin.com/posts/acm-student-chapter-ssnce_webinar-highereducation-amazon-activity-6818839031342866432-X74Z
+
